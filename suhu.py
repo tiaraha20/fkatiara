@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import streamlit as st
  
 # Header
-st.header('Sufiati :sparkles:')
+st.header('Tiara Hanifah Anwar :sparkles:')
 st.subheader('Konversi Suhu')
 
 c1, c2 = st.columns(2)
