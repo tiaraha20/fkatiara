@@ -58,4 +58,4 @@ if(satuan=='K'):
 
 st.write(x,' ',satuan,' = ',y,' ',konversi)
 
-st.caption('Copyright © Sufiati 2023')
+st.caption('Copyright © TiaraHA 2023')
